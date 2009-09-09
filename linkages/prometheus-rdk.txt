@@ -1,0 +1,224 @@
+# + = correct
+# - = incorrect
+
+# Apotheke
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/01/01-0841.html
+# + Jamnitzer, Wenzel: Eidechsen (Nürnberg, 1540-50)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-frankfurt-4583bf8e96aef71ea8f64527b818cf9f6b45c679
+
+# Architekturmodell
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/01/01-0925.html
+# + Elias Holl: Das Augsburger Rathaus (Augsburg)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-trier-55b0db7e063b78219617325ae12f5c60d597eeec
+
+# Bacchus
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/01/01-1335.html
+# + Jakob Matham: Der Herbst (Stuttgart, Staatsgalerie, 1589)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-trier-87bd6d28d6c97fabac7b57a9c6069d7736d3a407
+
+# Bacchus
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/01/01-1337.html
+# - Jakob Matham: Der Herbst (Stuttgart, Staatsgalerie, 1589)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-trier-87bd6d28d6c97fabac7b57a9c6069d7736d3a407
+
+# Brettspiel, Brettstein
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/02/02-1167.html
+# - Flötner, Peter: Adam (Wien, 1525)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-frankfurt-ca4cb451b67d3db7769f6188081e5297c2c57fd2
+
+# Bronze, Bronzeguß, Bronzeplastik
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/02/02-1213.html
+# + Johann Gottfried Schadow: Quadriga auf dem Brandenburger Tor (Berlin, 1795)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-trier-8e2fbe610959122e87c050377050a70ee1b05971
+# + Johann Gottfried Schadow: Quadriga auf dem Brandenburger Tor (Berlin, 1795)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-trier-a690a50f193447c02a4a5286dc57f668d75a3057
+
+# Chronos
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/03/03-0759.html
+# - Marshall, William: Titelkupfer (1638)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-frankfurt-ad2503f56410dbf0bfb99602f9a102bc6daf1800
+
+# Circe
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/03/03-0785.html
+# + DOSSI, Dosso: Circe (Rom, Galleria Borghese)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-dresden-664e715dae1aab890552b12aaed568b7629cbde1
+
+# Deckenmalerei
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/03/03-1167.html
+# + Asam: Weltenburg (Weltenburg)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-frankfurt-3c4cd7fc29839778946be8a117100366bca8f3be
+
+# Diana
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/03/03-1433.html
+# + JACOPO de Barbari: Apollo und Diana
+http://prometheus.uni-koeln.de/pandora/image/show/Image-dresden-5c8ad2931b410b55455aadbcf0a8d86d6f698a91
+
+# Diogenes
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/04/04-0027.html
+# + Carpi, Ugo da: Diogenes (Wien / Graphische Sammlung Albertina)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-heidicon_kg-57fba923477f6d3938400e6bc02099df501528fc
+
+# Durchzug durch das Rote Meer
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/04/04-0625.html
+# - Flötner, Peter: Adam (Wien, 1525)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-frankfurt-ca4cb451b67d3db7769f6188081e5297c2c57fd2
+
+# Eidechse
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/04/04-0935.html  # 04-0935-1
+# + Jamnitzer, Wenzel: Eidechsen (Nürnberg, 1540-50)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-frankfurt-4583bf8e96aef71ea8f64527b818cf9f6b45c679
+
+# Elemente
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/04/04-1275.html
+# + COLLAERT, Adriaen: Die Luft (Schwerin, Staatliches Museum, um 1582)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-dresden-ff4771c4fe592347214a64c61d7ba4e6648c6d95
+
+# Elemente
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/04/04-1277.html
+# - COLLAERT, Adriaen: Das Feuer (Schwerin, Staatliches Museum, um 1582)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-dresden-75efb145482ce22f4544390cad233c749c1b43e4
+
+# Engel
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/05/05-0371.html
+# + Lochner, Stephan: Weltgerichtsaltar (Köln / Wallraf-Richartz-Museum - Fondation Corboud, um 1435)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-heidicon_kg-538375439c3c72abc17e5d9d0309868546504fbc
+
+# Engel
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/05/05-0399.html
+# + Lochner, Stephan: Weltgerichtsaltar (Köln / Wallraf-Richartz-Museum - Fondation Corboud, um 1435)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-heidicon_kg-538375439c3c72abc17e5d9d0309868546504fbc
+
+# Engel
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/05/05-0479.html
+# - Krause: Jubiläum (1909)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-ppo-3c7b0dd40179cac053adc7bae2d64e2f2f6dbda4
+
+# Engelchöre
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/05/05-0563.html
+# - Krause: Jubiläum (1909)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-ppo-3c7b0dd40179cac053adc7bae2d64e2f2f6dbda4
+
+# Erzstufe
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/05/05-1411.html
+# - Flötner, Peter: Adam (Wien, 1525)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-frankfurt-ca4cb451b67d3db7769f6188081e5297c2c57fd2
+
+# Esther
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/06/06-0083.html
+# - Aert de Gelder: Das Abendmahl (Aschaffenburg, Gemäldegalerie, um 1715)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-digidia-4e660f356890b40cfb0d92f0e0cd14d016631a84
+
+# Eucharistie
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/06/06-0187.html
+# + Bouts, Dieric: Abendmahlsaltar (Löwen / Sint-Pieterskerk, 1464 - 1467)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-heidicon_kg-4f9682d341d5ec3bb5fd1166e1867e074a625932
+# + Bouts, Dieric: Abendmahlsaltar (Löwen / Sint-Pieterskerk, 1464 - 1467)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-heidicon_kg-ea7471e6a15ec75d848349e3c69cb5ebe9fa09aa
+
+# Fasces
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/07/07-0465.html  # 07-0465-2
+# - DOSSI, Battista: Justitia (Dresden, Gemäldegalerie Alte Meister, 1544)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-dresden-c51d69f85f656faafc2d91ef163aa4848c19f1d1
+
+# Fasces
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/07/07-0475.html
+# + DOSSI, Battista: Justitia (Dresden, Gemäldegalerie Alte Meister, 1544)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-dresden-c51d69f85f656faafc2d91ef163aa4848c19f1d1
+
+# Fasces
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/07/07-0493.html
+# + DOSSI, Battista: Justitia (Dresden, Gemäldegalerie Alte Meister, 1544)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-dresden-c51d69f85f656faafc2d91ef163aa4848c19f1d1
+
+# Fassade
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/07/07-0549.html
+# + Ferstel, Heinrich von: Votivkirche in Wien (Wien, 1856-1877)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-artemis-e772832aa647357cc31e9edae23a0b85c1a24637
+
+# Fassade
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/07/07-0613.html
+# - Asam: Weltenburg (Weltenburg)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-frankfurt-3c4cd7fc29839778946be8a117100366bca8f3be
+
+# Fassade
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/07/07-0617.html  # 07-0617-2
+# - Asam: Weltenburg (Weltenburg)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-frankfurt-3c4cd7fc29839778946be8a117100366bca8f3be
+
+# Fassade
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/07/07-0683.html
+# + Asam: Weltenburg (Weltenburg)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-frankfurt-3c4cd7fc29839778946be8a117100366bca8f3be
+
+# Fels in der Allegorie der Neuzeit
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/07/07-1217.html
+# - Hendrik Goltzius: Allegorie (Basel, Öffentliche Kunstsammlung, 1611)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-digidia-46e4ff1ea05382b8b6731d5301539a1569aa0893
+
+# Fenster
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/07/07-1333.html
+# + Campen, Jacob van: Mauritshuis (Den Haag (NL), 1633 bis 1644)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-digidianeu-80aafda54b0ab41badead2552147f720b27730bc
+# + Jones, Inigo: Banqueting House (London (GB), 1619 bis 1622)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-digidianeu-bc1ea54f662ec22f41224f1b23d9506871893b71
+
+# Fenster
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/07/07-1361.html
+# + GÄRTNER, Friedrich von: Staatsbibliothek (München, TU)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-dresden-3ace2afa804074a7281704ff4c8a876d40bdadf2
+
+# Fenster
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/07/07-1375.html
+# + Jules Hardouin-Mansart: Place des Victoires (Paris, 1685 (begonnen))
+http://prometheus.uni-koeln.de/pandora/image/show/Image-trier-6b84563e8394060146a14e4fc26d8a84d841331e
+# + Jules Hardouin-Mansart: Place des Victoires (Paris, 1687 -1690)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-trier-dd14fae2ef7aeda8982e358c04b5b390d2244ddb
+
+# Fenster
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/07/07-1377.html
+# - Jules Hardouin-Mansart: Place des Victoires (Paris, 1685 (begonnen))
+http://prometheus.uni-koeln.de/pandora/image/show/Image-trier-6b84563e8394060146a14e4fc26d8a84d841331e
+# - Jules Hardouin-Mansart: Place des Victoires (Paris, 1687 -1690)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-trier-dd14fae2ef7aeda8982e358c04b5b390d2244ddb
+
+# Fenster
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/07/07-1417.html
+# + Petrini, Antonio: Stift Haug [Grundriß] (Würzburg, 1670 - 1691)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-wbarchiv-63cb262fd1555880b3e087ca3e8d06e05bd0635b
+
+# Fiducia
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/08/08-0905.html
+# - Hendrik Goltzius: Allegorie (Basel, Öffentliche Kunstsammlung, 1611)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-digidia-46e4ff1ea05382b8b6731d5301539a1569aa0893
+
+# Fingerreliquiar
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/08/08-1221.html
+# - Krumper, Hans: Die reiche Kapelle (München, 1607)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-artemis-5f5c0a938b0bf043df6ef7d0b47a5dd195cc369b
+
+# Fischer, Fischfang
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/09/09-0237.html
+# - Hendrik Goltzius: Allegorie (Basel, Öffentliche Kunstsammlung, 1611)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-digidia-46e4ff1ea05382b8b6731d5301539a1569aa0893
+
+# Flammenschwert
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/09/09-0711.html
+# + Asam: Weltenburg (Weltenburg)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-frankfurt-3c4cd7fc29839778946be8a117100366bca8f3be
+
+# Fledermaus
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/09/09-0999.html
+# - Hendrik Goltzius: Allegorie (Basel, Öffentliche Kunstsammlung, 1611)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-digidia-46e4ff1ea05382b8b6731d5301539a1569aa0893
+# + William Blake: Hekate (London, 1795)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-hamburg-26bb69c2684d237596b9e0e749de761424adc7bb
+
+# Fledermaus
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/09/09-1029.html
+# + Asam: Weltenburg (Weltenburg)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-frankfurt-3c4cd7fc29839778946be8a117100366bca8f3be
+
+# Fletz
+http://rdk.zikg.net/gsdl/collect/rdk-web/files/pag/09/09-1113.html
+# - Elias Holl: Das Augsburger Rathaus (Augsburg)
+http://prometheus.uni-koeln.de/pandora/image/show/Image-trier-55b0db7e063b78219617325ae12f5c60d597eeec
